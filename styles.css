@@ -1,0 +1,43 @@
+
+.main-div{
+   display: inline;
+}
+.first-box{
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+    border: solid black;
+}
+.second-box{
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+    border: solid blue;
+}
+.second main-dive{
+    display: inline;
+}
+.first-box1{
+    width: 30%;
+    height: 200px;
+    padding: 10px;
+    border: solid red;
+}
+.second-box2{
+    width: 70%;
+    height: 50%;
+    padding: 10px;
+    border: solid purple;
+}
+.Third main-dive{
+    display: inline;
+}
+.first-box3{
+    width: 70%;
+    height: 50%;
+    padding: 10px;
+    border: solid green;
+}
+.main-dive{
+    display: inline;
+}

@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+}
+.row1{
+    border: 2px solid rgb(117, 9, 43);
+    height: 120px;
+    width: 100%;
+    font-size: 0px;
+}
+.column-1{
+    height: 120px;
+    width: 33.33%;
+    display: inline-block;
+    border: 2px solid rgb(207, 21, 33);
+}
+.row2{
+    border: 2px solid rgb(134, 23, 42);
+    height: 120px;
+    width: 100%;
+    font-size: 0px;
+}
+.column-2{
+    height: 117px;
+    width: 55%;
+    display: inline-block;
+    border: 2px solid black;
+}
+.column-22{
+        height: 117px;
+        width: 45%;
+        display: inline-block;
+        border: 2px solid black;
+    }
+
+.num-1{
+    border: 2px solid rgb(188, 42, 78);
+    height: 50%;
+}
+
+.row3{
+    border: 2px solid rgb(175, 20, 20);
+    height: 150px;
+    width: 100%;
+    font-size: 0px;
+}
+/* .column-6{
+    width: 30%;
+    height:100px;
+    border: 2px solid blue ;
+
+} */
+.num-12{
+    height: 150px;
+    width: 30%;
+    display: inline-block;
+    border: 2px solid rgb(1, 1, 21);
+}
+.one-1,.two-2{
+    height: 73px;
+    /* width: 30%; */
+    /* display: inline-block; */
+    border: 2px solid rgb(1, 1, 21);
+    }
+
+
+
+.num-13{
+    height: 150px;
+    width: 15%;
+    display: inline-block;
+    border: 2px solid rgb(3, 3, 27);
+}
+.num-14{
+    height: 150px;
+    width: 15%;
+    display: inline-block;
+    border: 2px solid rgb(0, 0, 19);
+ }
+.num-15{
+    height: 150px;
+    width: 40%;
+    display: inline-block;
+    border: 2px solid rgb(0, 0, 15);
+ }
+ .nun-42,.nun-43,.nun-44{
+    height: 50px;
+    /* width: 30%; */
+    /* display: inline-block; */
+    border: 2px solid rgb(43, 20, 20);
+ }
+
+.row4{
+    border: 2px solid red;
+    height: 120px;
+    width: 100%;
+    font-size: 0px;
+}
+.column-10{
+    height: 117px;
+    width: 50%;
+    display: inline-block;
+    border: 2px solid black;
+}
+.row5{
+    border: 2px solid red;
+    height: 120px;
+    width: 100%;
+    font-size: 0px;
+}
+.column-11{
+    height: 117px;
+    width: 50%;
+    display: inline-block;
+    border: 2px solid black;
+}

@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+.row1{
+    height: 100px;
+    width: 100%;
+    border: 2px solid red;
+    font-size: 0px;
+}
+.column-1{
+    height: 100%;
+    width: 33.33%;
+    border: 2px solid black;
+    float: left;
+}
+.row2{
+    height: 150px;
+    width: 100%;
+    border: 2px solid red;
+    font-size: 0px;
+}
+.column-2{
+    height: 100%;
+    width: 50%;
+    border: 1px solid red;
+    float: left;
+}
+.num-1{
+    border: 2px solid blue;
+    height: 50%;
+}
+.row3{
+    height: 150px;
+    width: 100%;
+    border: 1px solid red;
+    font-size: 0px;
+    
+}
+.num-12{
+    height: 100%;
+    width: 30%;
+    border: 1px solid black;
+    float: left;
+}
+.num-13{
+    height: 100%;
+    width: 17%;
+    border: 1px solid black;
+    float: left;
+}
+
+.num-15{
+    height: 100%;
+    width: 36%;
+    border: 1px solid black;
+    float: left;
+}
+.one-1{
+    height: 50%;
+    border: 2px solid blue;
+}
+.num-2{
+    height: 33.33%;
+    border: 1px solid blue;
+}
+
+.row4{
+    height: 100px;
+    width: 100%;
+    border: 1px solid red;
+    font-size: 0px;
+}
+.column-11{
+    height: 100%;
+    width: 50%;
+    border: 2px solid blue;
+    float: left;
+}

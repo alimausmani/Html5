@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+}
+.row1{
+   
+    background-color: rgb(11, 10, 10);
+    height: 80px;
+    font-size: 0px;
+    border: solid white;
+}
+.col{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 8.33%;
+    float: left;
+    /* padding: 10px; */
+    /* margin-top: 3%; */
+
+}
+.col2{
+
+    border: solid white;
+    height: 40px;
+    width: 50%;
+    float: left;
+
+    margin-top: 1.0%;
+}
+.col3{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 8.33%;
+    float: left;
+}
+.row2{
+    background-color: rgb(11, 10, 10);
+    height: 50px;
+    font-size: 0px;
+    border: solid white;
+}
+.col4{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 4.33%;
+    float: left;
+}
+.col5{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 6.33%;
+    float: left;
+}
+.col6{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 8.33%;
+    float: left;
+}
+.col7{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 5.33%;
+    float: left;
+}
+.col8{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 6.33%;
+    float: left;
+}
+.col9{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 4.33%;
+    float: left;
+}
+.col10{
+    border: solid rgb(241, 228, 228);
+    height: 100%;
+    width: 12.33%;
+    float: right;
+}
+.row3{
+    height: 150px;
+    background-color: rgb(183, 143, 166);
+    margin: 70px;
+    position: relative;
+    bottom: 50px;
+
+}
+.col12{
+    height: 100%;
+    width: 80px;
+    float: left;
+    margin-top: 3%;
+    
+}
+.row4{
+    height: 150px;
+    background-color: rgb(187, 137, 165);
+    margin: 1px;
+    /* position: relative; */
+    bottom: 50px;
+}
+.row5{
+    border: 1px solid rgb(226, 168, 168);
+    height: 150px;
+    width: 100%;
+    border: black;
+    padding: 10px;
+}
+.col14{
+    height: 270px;
+    width: 21%;
+    float: left;
+    border: solid black;
+    background-color: rgb(163, 163, 183);
+    margin: 2%;
+}
